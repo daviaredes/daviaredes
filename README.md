@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Davi, I'm 19 years old, I study programming from June 2021<br>I have a great interest in web more specifically Back-end
+Hello, my name is Davi, I'm 20 years old, I study programming from June 2021<br>I have a great interest in web more specifically Back-end
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davi.aredess/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-ar%C3%AAdes-14818a218) 
